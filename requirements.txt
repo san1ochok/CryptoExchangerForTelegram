@@ -1,0 +1,7 @@
+aiogram
+requests
+bs4
+datetime
+asyncio
+sqlite3
+logging
